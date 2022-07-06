@@ -1,0 +1,15 @@
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nemanja\Desktop\Treca_godina\Interakcija covek racunar\PZ2\MeteringSimulator - T3\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
